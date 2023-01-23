@@ -22,7 +22,6 @@ The generated project has the following structure:
 * Notebooks:
   * [jupyterlab]: Next-generation web-based user interface for Project Jupyter
   * [jupytext]: convert jupyter notebooks to python
-  * [nbstripout]: strip notebook outputs
 
 * [Poetry]: Dependency management and packaging
 * [Tox]: Easily run tests for different python versions
@@ -116,7 +115,6 @@ While creating the access token, the following permissions have to be granted
 [jupyterlab]: https://jupyterlab.readthedocs.io/en/stable/
 [jupytext]: https://github.com/mwouts/jupytext
 [mypy]: http://mypy-lang.org/
-[nbstripout]: https://github.com/kynan/nbstripout
 [pdbpp]: https://github.com/pdbpp/pdbpp
 [PEP8]: https://www.python.org/dev/peps/pep-0008/
 [pep8-naming]: https://pypi.org/project/pep8-naming/

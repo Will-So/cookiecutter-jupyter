@@ -29,7 +29,6 @@ Clone this repository and run
 
 ```bash
 poetry install
-poetry run nbstripout --install
 poetry run pre-commit install
 ```
 
